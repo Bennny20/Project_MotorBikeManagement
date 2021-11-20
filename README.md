@@ -12,7 +12,8 @@
 ## Have fun with my code and feel free to give me any comments
 
 ### Connect me via:
-[Facebook](https://www.facebook.com/phien.truong.20/)
-[Email](mailto: phientruong20@gmail.com)
+[Facebook](https://www.facebook.com/phien.truong.20)
+[Email](phientruong20@gmail.com)
+
 
 ####  © 2021 PhienTruongg
