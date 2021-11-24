@@ -1,4 +1,4 @@
-# WELCOME to Project_MotorBikeManagement
+# Welcome to Project_MotorBikeManagement
 
 ### You will find in this repo the following stuff: 
 * This repo has a basic project about Java-DESK
