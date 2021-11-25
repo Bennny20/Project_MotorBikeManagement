@@ -1,4 +1,6 @@
 # Welcome to Project_MotorBikeManagement
+![GitHub top language](https://img.shields.io/github/languages/top/Bennny20/Project_MotorBikeManagement?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/Bennny20/Project_MotorBikeManagement?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/Bennny20/Project_MotorBikeManagement)
 
 ### You will find in this repo the following stuff: 
 * This repo has a basic project about Java-DESK
