@@ -2,7 +2,7 @@
 
 ### You will find in this repo the following stuff: 
 * This repo has a basic project about Java-DESK
-* Techs: JDK 1.8, SQLServer , OOP, NetBeans8.2
+* Techs: JDK 1.8, SQLServer, OOP, NetBeans8.2
 
 ### Project functions include:
 - CRUD product
